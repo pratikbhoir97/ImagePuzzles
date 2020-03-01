@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\.android\build-cache\f8a6f5457e4a2ea0eadcf1793a549659e2017e73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\classes_fe5474e8d9a5fb63981bb29c002293c27843096c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\.android\build-cache\e53ba4239f7deecb3d360fd227e2773178a73edd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\classes_3bd14946e070f2d6e5575b2bdc4371518f1cb098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_9c2cc42ac33784aa33a99df144c0e4824a242ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\.android\build-cache\26bf4d068ef6a01481cfb8cfe3cf47735a89e995\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\classes_027c68bedf14d1f50db31243db9b69c1ea92c86d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_e340a1863a997d3dd2a26cc234684e618fa91c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\.android\build-cache\ef414d301e6b6d87ef07abba2643c586669e2af0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\classes_74072a47a503131993b4aeb74024fbfc8f1d5efc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\.android\build-cache\2b8fe30f16f680aa5fbccb470b21ca16677911ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\classes_10d46baa24ad9d5321fb394396b3678a10a7060f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\.android\build-cache\44377b5f467c78ecd1b803632547ce82fdadfed5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\classes_d2fc63c1b36ec3aece66d96bf2b116f9284ee0f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\.android\build-cache\707a13f5aaa812cdc5266e9b084bc82d9413cb22\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\classes_3430c96832e8868999a3b822396f89301ff283cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\.android\build-cache\299746f1e1e10e30524703a84aa83ed55dad7c1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\classes_d481eabe1f1f32840371108c3ab2d5f20d96fbfc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4782adecbfe6f5a411780bfad201ceb09a2d6192">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2b73004f218a5ea04a01e0304f73ebd90f0f929b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\.android\build-cache\ce36c41e6fbf341769fcc20a7b7ed5ba67fb6c72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\classes_78fb805b13a4129395f31287fa98a8482bb38d50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\.android\build-cache\bec41442c0019d036dc5bce9221815a8e7ef2a33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\classes_9ac3ccf16a81e6400ce848193170810d3f4f33c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\.android\build-cache\0a0a6a1583f4a99a4d1dd7c31b247620daff758c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\classes_c01bc81aa6b2928c985d4d6528da851adc5d9625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\.android\build-cache\bbbee06376474266ce50c8f70f78e01cafe4e2a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\classes_0faf7b1347911a727c98f2cf463149e98e6eb23a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pratik\.android\build-cache\2fd2c48bd072bcaae62304241b1dfa9ba44ab9ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\pre-dexed\debug\classes_3a1ad219cfa44374a1a48b1a8533ba0f43400f5d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\pratik\AndroidStudioProjects\ImagePuzzle\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_804192c8081cdbfe3a8b7dbe0b3bdecc71e3f993\classes.dex" />
+    </item>
+
+</items>
